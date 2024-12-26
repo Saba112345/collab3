@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Saba akka ge jaii
+=======
+uyi776urffSaba
+>>>>>>> 91db4db9cae20d69b57896ec9383f3c62275ff7e
 =======
 #include<stdio.h>
 int main()
