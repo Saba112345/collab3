@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hatrrr nimgee
+=======
+#include<stdio.h>
+int main()
+{
+printf("hattr ning");
+}
+
+>>>>>>> 38618bd862b6ca68d6931f6254813a8aeec35471
