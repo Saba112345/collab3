@@ -1,5 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hatrrr nimgee
+=======
+<<<<<<< HEAD
+Saba akka ge jaii
+=======
+uyi776urffSaba
+>>>>>>> 91db4db9cae20d69b57896ec9383f3c62275ff7e
+>>>>>>> de09305361785183b674a69e69eced44ce3b700d
 =======
 #include<stdio.h>
 int main()
